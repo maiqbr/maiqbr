@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-cover-v2.png" alt="maiq — built with coffee, dice, and a few more lines of JavaScript than necessary" width="100%" /></a>
+  <a href="https://maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-cover-v3.png" alt="maiq — built with coffee, dice, and a few more lines of JavaScript than necessary" width="100%" /></a>
   <br /><br />
   <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-monogram-violet.png" alt="maiq monogram" width="74" />
   <h2>Community Systems Builder</h2>
@@ -14,19 +14,19 @@
 
 <table>
   <tr>
-    <td width="33%" align="center"><a href="https://gdi.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/gdi-logo.png" width="28" alt="" /> <b>GDI</b></a><br /><sub>RPG companion · Discord & Telegram</sub></td>
-    <td width="33%" align="center"><a href="https://quiz.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/quizarena-logo.png" width="28" alt="" /> <b>QuizArena</b></a><br /><sub>Browser game · live trivia</sub></td>
-    <td width="33%" align="center"><a href="https://discord.gg/ASBNn9VGsP"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ninscroll-logo.png" width="28" alt="" /> <b>NinScroll</b></a><br /><sub>Community system · NinOnline</sub></td>
+    <td width="33%" align="center"><a href="https://gdi.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/gdi-logo.png" height="28" alt="" /> <b>GDI</b></a><br /><sub>RPG companion · Discord & Telegram</sub></td>
+    <td width="33%" align="center"><a href="https://quiz.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/quizarena-logo.png" height="28" alt="" /> <b>QuizArena</b></a><br /><sub>Browser game · live trivia</sub></td>
+    <td width="33%" align="center"><a href="https://discord.gg/ASBNn9VGsP"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ninscroll-logo.png" height="28" alt="" /> <b>NinScroll</b></a><br /><sub>Community system · NinOnline</sub></td>
   </tr>
   <tr>
-    <td width="33%" align="center"><a href="https://discord.gg/amongusbrasil"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby.png" width="28" alt="" /> <b>Ruby</b></a><br /><sub>Discord operations · Among Us Brasil</sub></td>
-    <td width="33%" align="center"><a href="https://github.com/maiqbr/Ruby-Live"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby-live-mark.svg" width="28" alt="" /> <b>Ruby Live</b></a><br /><sub>WebRTC media sharing</sub></td>
-    <td width="33%" align="center"><a href="https://github.com/maiqbr/Spellbook"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/spellbook-logo.png" width="28" alt="" /> <b>Spellbook</b></a><br /><sub>Windows automation · .NET</sub></td>
+    <td width="33%" align="center"><a href="https://discord.gg/amongusbrasil"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby.png" height="28" alt="" /> <b>Ruby</b></a><br /><sub>Discord operations · Among Us Brasil</sub></td>
+    <td width="33%" align="center"><a href="https://github.com/maiqbr/Ruby-Live"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby-live-mark.svg" height="28" alt="" /> <b>Ruby Live</b></a><br /><sub>WebRTC media sharing</sub></td>
+    <td width="33%" align="center"><a href="https://github.com/maiqbr/Spellbook"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/spellbook-logo.png" height="28" alt="" /> <b>Spellbook</b></a><br /><sub>Windows automation · .NET</sub></td>
   </tr>
   <tr>
-    <td width="33%" align="center"><a href="https://aubtcg.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/aubtcg.png" width="28" alt="" /> <b>Among Us Brasil TCG</b></a><br /><sub>Collectible card game</sub></td>
-    <td width="33%" align="center"><a href="https://tcguaxa.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/tcguaxa.png" width="28" alt="" /> <b>TCGuaxa</b></a><br /><sub>Collectible card game</sub></td>
-    <td width="33%" align="center"><a href="https://maiq.dev.br/#projetos"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-monogram-violet.png" width="28" alt="" /> <b>View all ↗</b></a><br /><sub>More things from the workshop</sub></td>
+    <td width="33%" align="center"><a href="https://aubtcg.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/aubtcg.png" height="28" alt="" /> <b>Among Us Brasil TCG</b></a><br /><sub>Collectible card game</sub></td>
+    <td width="33%" align="center"><a href="https://tcguaxa.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/tcguaxa.png" height="28" alt="" /> <b>TCGuaxa</b></a><br /><sub>Collectible card game</sub></td>
+    <td width="33%" align="center"><a href="https://maiq.dev.br/#projetos"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-monogram-violet.png" height="28" alt="" /> <b>View all ↗</b></a><br /><sub>More things from the workshop</sub></td>
   </tr>
 </table>
 
