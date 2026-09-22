@@ -5,7 +5,7 @@
   <a href="https://maiq.dev.br">portfolio</a> · <a href="#quest-log">quest log</a> · <a href="#skill-tree">skill tree</a>
 </div>
 
-> **CURRENT BUILD:** RPG tools, community bots, games, and web experiments — made with equal parts curiosity, structure, and chaos.
+> **CURRENT BUILD:** RPG tools, community bots, games, and web experiments, made with equal parts curiosity, structure, and chaos.
 
 <a id="quest-log"></a>
 ## ✦ Quest log
@@ -31,18 +31,18 @@
 ## 🗺️ Inspect a quest
 
 <details>
-<summary><b>🎲 GDI — The improbable main quest</b></summary>
+<summary><b>🎲 GDI: The improbable main quest</b></summary>
 <br />
 
 <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/dados.png" alt="Dice icon" width="52" align="left" />
 
-My main project is an RPG companion for Discord and Telegram. It helps game masters and players run tables with less friction — and includes spoken dice rolls so the table is more accessible. &nbsp; [Open GDI →](https://gdi.maiq.dev.br)
+My main project is an RPG companion for Discord and Telegram. It helps game masters and players run tables with less friction, and includes spoken dice rolls so the table is more accessible. &nbsp; [Open GDI →](https://gdi.maiq.dev.br)
 
 <br clear="left" />
 </details>
 
 <details>
-<summary><b>🏰 Community systems — worlds that run themselves</b></summary>
+<summary><b>🏰 Community systems: worlds that run themselves</b></summary>
 <br />
 
 <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/geral.png" alt="Community icon" width="52" align="left" />
@@ -53,7 +53,7 @@ My main project is an RPG companion for Discord and Telegram. It helps game mast
 </details>
 
 <details>
-<summary><b>🧪 Side quests — games, experiments, and useful magic</b></summary>
+<summary><b>🧪 Side quests: games, experiments, and useful magic</b></summary>
 <br />
 
 <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/ideias.png" alt="Ideas icon" width="52" align="left" />
