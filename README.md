@@ -1,6 +1,4 @@
 <div align="center">
-  <a href="https://maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-cover-v3.png" alt="maiq — built with coffee, dice, and a few more lines of JavaScript than necessary" width="100%" /></a>
-  <br /><br />
   <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-monogram-violet.png" alt="maiq monogram" width="74" />
   <h2>Community Systems Builder</h2>
   <p><i>I turn “what if there was a tool for this?” into playful systems people actually use.</i></p>
@@ -95,14 +93,12 @@ My main project is an RPG companion for Discord and Telegram. It helps game mast
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/adventurer-record.svg" alt="Live GitHub record: contributions, repositories, stars and followers" width="100%" />
-  <br /><sub>Forged daily from the GitHub API.</sub>
 </div>
 
 ## 🐍 Contribution familiar
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/output/github-contribution-grid-snake-dark.svg" alt="Animated snake consuming the contribution graph" width="100%" />
-  <br /><sub>It wakes up after the contribution-snake Action completes.</sub>
 </div>
 
 ---
