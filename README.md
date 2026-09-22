@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-monogram-violet.png" alt="maiq monogram" width="74" />
-  <h2>Community Systems Builder</h2>
+  <h2><i>Built with coffee, dice, and a few more lines of code than necessary.</i></h2>
   <p><i>I turn “what if there was a tool for this?” into playful systems people actually use.</i></p>
   <a href="https://maiq.dev.br">portfolio</a> · <a href="#quest-log">quest log</a> · <a href="#skill-tree">skill tree</a>
 </div>
