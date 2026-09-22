@@ -63,7 +63,7 @@
 ## 🗝️ Dungeon crawl
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/dungeon-crawl.svg" alt="An animated adventurer crossing a dungeon toward treasure" width="100%" />
+  <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/dungeon-map.svg" alt="A contribution calendar turned into a pixel-art dungeon, with treasure chests and animated slimes. Illustrative activity." width="100%" />
 </div>
 
 ---
