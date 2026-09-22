@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Adventurer record will update after the first GitHub Action run">
+  <rect width="1200" height="180" rx="14" fill="#100b18"/><rect x="1" y="1" width="1198" height="178" rx="13" fill="none" stroke="#6d4e9f" stroke-width="2"/>
+  <text x="600" y="70" fill="#e9d5ff" font-family="monospace" font-size="22" text-anchor="middle">ADVENTURER'S RECORD</text>
+  <text x="600" y="112" fill="#b9a9cb" font-family="monospace" font-size="16" text-anchor="middle">The first GitHub Action run will forge the live card.</text>
+  <text x="600" y="138" fill="#9b7bff" font-family="monospace" font-size="13" text-anchor="middle">contributions · repositories · stars · followers</text>
+</svg>

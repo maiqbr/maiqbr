@@ -1,0 +1,41 @@
+name: Update adventurer record
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+  push:
+    branches: [main]
+    paths-ignore:
+      - "assets/adventurer-record.svg"
+
+permissions:
+  contents: write
+
+jobs:
+  forge-card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read public GitHub record and forge SVG
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const login = 'maiqbr';
+            const { data: user } = await github.rest.users.getByUsername({ username: login });
+            const repos = await github.paginate(github.rest.repos.listForUser, { username: login, type: 'owner', per_page: 100 });
+            const stars = repos.reduce((sum, repo) => sum + repo.stargazers_count, 0);
+            let contributions = '—';
+            try {
+              const data = await github.graphql('query($login:String!) { user(login:$login) { contributionsCollection { contributionCalendar { totalContributions } } } }', { login });
+              contributions = data.user.contributionsCollection.contributionCalendar.totalContributions.toLocaleString();
+            } catch (_) {}
+            const stat = (x, label, icon) => `<g><text x="${x}" y="78" fill="#9b7bff" font-family="monospace" font-size="17" text-anchor="middle">${icon}</text><text x="${x}" y="112" fill="#f8f5ff" font-family="Georgia,serif" font-size="30" font-weight="bold" text-anchor="middle">${label[0]}</text><text x="${x}" y="140" fill="#b9a9cb" font-family="monospace" font-size="13" text-anchor="middle">${label[1]}</text></g>`;
+            const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Maiq GitHub adventurer record"><rect width="1200" height="180" rx="14" fill="#100b18"/><rect x="1" y="1" width="1198" height="178" rx="13" fill="none" stroke="#6d4e9f" stroke-width="2"/><text x="48" y="38" fill="#a98ae8" font-family="monospace" font-size="13" letter-spacing="2">ADVENTURER'S RECORD · LIVE GITHUB DATA</text><path d="M300 55v94M600 55v94M900 55v94" stroke="#493365"/>${stat(150, [contributions, 'CONTRIBUTIONS'], '✦')}${stat(450, [user.public_repos, 'PUBLIC REPOSITORIES'], '◈')}${stat(750, [stars, 'STARS COLLECTED'], '★')}${stat(1050, [user.followers, 'GUILD MEMBERS'], '♟')}<text x="1152" y="166" fill="#75658a" font-family="monospace" font-size="10" text-anchor="end">UPDATED ${new Date().toISOString().slice(0, 10)}</text></svg>`;
+            fs.writeFileSync('assets/adventurer-record.svg', svg);
+      - name: Commit the refreshed card
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh adventurer record"
+          file_pattern: assets/adventurer-record.svg

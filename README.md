@@ -1,81 +1,108 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/hero.svg" alt="Maiq — builder of RPG tools, community systems, and playful experiences" width="100%" />
+  <a href="https://gdi.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/gdi-banner.png" alt="Gerador de Improbabilidades — GDI" width="100%" /></a>
+  <br /><br />
+  <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/mike.jpg" alt="Maiq" width="115" />
+  <h1>Maiq's Guild Hall</h1>
+  <p><i>I build odd little systems that help communities play, organize, and tell better stories.</i></p>
+  <a href="#quest-board">Browse quests</a> · <a href="https://maiq.dev.br">Visit the portfolio</a> · <a href="https://gdi.maiq.dev.br">Enter the GDI</a>
 </div>
+
+<br />
+
+> **CLASS:** Community Systems Builder &nbsp; · &nbsp; **SPECIALIZATION:** RPG tools, Discord bots, playful web apps &nbsp; · &nbsp; **HOME BASE:** Brazil
+
+I make the things a community wishes existed: a dice roller that speaks, a ninja-village economy,
+a game-night quiz, a call-management bot, or keyboard macros disguised as spells. Every project starts
+with *“what if there was a tool for this?”* and ends somewhere between a game design document and one more tab open at 2 AM.
 
 <div align="center">
-
-  <a href="https://maiq.dev.br"><img src="https://img.shields.io/badge/Portfolio-maiq.dev.br-171221?style=for-the-badge&logo=vercel&logoColor=F8F5FF" alt="Portfolio" /></a>
-  <a href="https://github.com/maiqbr?tab=repositories"><img src="https://img.shields.io/badge/Quest_log-Repositories-3A2858?style=for-the-badge&logo=github&logoColor=F8F5FF" alt="Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=maiqbr&style=for-the-badge&color=7D5FFF&label=TRAVELERS" alt="Profile views" />
-
+  <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/character-sheet.svg" alt="Maiq's skills: system design, community tools, accessibility, curiosity" width="100%" />
 </div>
 
-## `PLAYER PROFILE`
+<a id="quest-board"></a>
+## ⚔️ Quest board
 
-```text
-NAME        Maiq
-CLASS       Community Systems Builder
-ALIGNMENT   Make the boring part of games more fun
-SPECIALTY   Discord bots · Web apps · RPG systems · playful UX
-HOME BASE   Brazil
-```
+<div align="center"><sub>Every image is a portal — click one to visit its project.</sub></div>
+<br />
 
-I build the things a community wishes it had: a dice roller that speaks, a village economy,
-a browser quiz, a call-management bot, or a keyboard macro system disguised as a spellbook.
-Most of my projects begin with *“wouldn't it be cool if…”* and end with a server, a database,
-and one more tab open at 2 AM.
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://gdi.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/gdi-logo.png" alt="GDI logo" width="150" /></a>
+      <h3><a href="https://gdi.maiq.dev.br">GDI — Gerador de Improbabilidade</a></h3>
+      <sub>Discord · Telegram · RPG</sub><br /><br />
+      My main quest: a full RPG companion that makes running a table smoother for game masters and players.
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://discord.gg/ASBNn9VGsP"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ninscroll-logo.png" alt="NinScroll logo" width="150" /></a>
+      <h3><a href="https://discord.gg/ASBNn9VGsP">NinScroll</a></h3>
+      <sub>Discord · NinOnline</sub><br /><br />
+      A complete community system: economy, organizations, events, security, and a whole ninja village to run.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://quiz.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/quizarena-logo.png" alt="QuizArena logo" width="150" /></a>
+      <h3><a href="https://quiz.maiq.dev.br">QuizArena</a></h3>
+      <sub>Web · Game night</sub><br /><br />
+      A browser quiz with categories, live scores, themed modes, and the right amount of friendly rivalry.
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://discord.gg/amongusbrasil"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby.png" alt="Ruby" width="150" /></a>
+      <h3><a href="https://discord.gg/amongusbrasil">Ruby</a></h3>
+      <sub>Discord · Among Us Brasil</sub><br /><br />
+      Call management and ticket systems made for the rhythm and scale of a huge gaming community.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/maiqbr/Ruby-Live"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby-live-mark.svg" alt="Ruby Live logo" width="150" /></a>
+      <h3><a href="https://github.com/maiqbr/Ruby-Live">Ruby Live</a></h3>
+      <sub>WebRTC · Discord · Open source</sub><br /><br />
+      Peer-to-peer screen and webcam sharing for people who are already in the same Discord call.
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/maiqbr/Spellbook"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/spellbook-logo.png" alt="Spellbook logo" width="150" /></a>
+      <h3><a href="https://github.com/maiqbr/Spellbook">Spellbook</a></h3>
+      <sub>Windows · .NET · Open source</sub><br /><br />
+      Keyboard and mouse automations stored as spells, ready to be cast with global shortcuts.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://aubtcg.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/aubtcg.png" alt="Among Us Brasil TCG artwork" width="150" /></a>
+      <h3><a href="https://aubtcg.maiq.dev.br">Among Us Brasil TCG</a></h3>
+      <sub>Web · Collectible card game</sub><br /><br />
+      Community moments, images, gifs, videos, and audio turned into a collectible card game.
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://tcguaxa.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/tcguaxa.png" alt="TCGuaxa artwork" width="150" /></a>
+      <h3><a href="https://tcguaxa.maiq.dev.br">TCGuaxa</a></h3>
+      <sub>Web · Collectible card game</sub><br /><br />
+      A second TCG built around the memories and characters of the rpguaxa community.
+    </td>
+  </tr>
+</table>
+
+## 🗺️ Inspect a quest
+
+<details><summary><b>Open the GDI quest log</b></summary><br />The Gerador de Improbabilidade is my longest-running project: an RPG app for Discord and Telegram with dice rolling, system support, utilities for game masters, and spoken dice rolls as an accessibility feature. <a href="https://gdi.maiq.dev.br">Start an adventure →</a></details>
+
+<details><summary><b>Open the community systems quest log</b></summary><br />NinScroll and Ruby come from the same belief: large communities deserve tools shaped around how they actually play. They cover events, moderation, economy, organization, calls, and tickets without losing their personality.</details>
+
+<details><summary><b>Open the games & experiments quest log</b></summary><br />QuizArena, Among Us Brasil TCG, and TCGuaxa are built for shared moments. Ruby Live and Spellbook explore a different kind of magic: useful technical tools presented in a way that feels human and fun.</details>
+
+## 📜 Adventurer's record
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/character-sheet.svg" alt="Character sheet: community systems, game design, automation, accessibility" width="100%" />
+  <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/adventurer-record.svg" alt="Live GitHub record: contributions, repositories, stars and followers" width="100%" />
+  <br /><sub>This card is generated from GitHub's API by this repository's scheduled Action. No third-party statistics widget.</sub>
 </div>
 
-## `ACTIVE QUESTS`
+## ✦ Skill tree
 
-| Quest | What I built | Realm |
-| :-- | :-- | :-- |
-| [**GDI — Gerador de Improbabilidade**](https://gdi.maiq.dev.br) | My main project: an RPG companion for Discord and Telegram that helps game masters and players run sessions without friction. | Discord · Telegram |
-| [**NinScroll**](https://discord.gg/ASBNn9VGsP) | A custom system for NinOnline communities: economy, organizations, events, moderation, and internal security. | Discord · NinOnline |
-| [**QuizArena**](https://quiz.maiq.dev.br) | A browser quiz game with categories, modes, rankings, and just enough competition. | Web |
-| [**Ruby**](https://discord.gg/amongusbrasil) | Community operations bot for Among Us Brasil, with call management and ticket workflows designed for scale. | Discord |
-
-## `RARE ITEMS IN THE INVENTORY`
-
-<div align="center">
-  <a href="https://github.com/maiqbr/Spellbook"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/item-spellbook.svg" alt="Spellbook — Windows automation app" width="48%" /></a>
-  <a href="https://github.com/maiqbr/Ruby-Live"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/item-rubylive.svg" alt="Ruby Live — peer-to-peer Discord media sharing" width="48%" /></a>
-</div>
-
-<div align="center">
-
-  [Among Us Brasil TCG](https://aubtcg.maiq.dev.br) · [TCGuaxa](https://tcguaxa.maiq.dev.br) · [More projects on my portfolio](https://maiq.dev.br/#projetos)
-
-</div>
-
-## `SKILL TREE`
-
-<div align="center">
-
-  `Discord bots` &nbsp; `Web applications` &nbsp; `Game design` &nbsp; `TTRPG systems` &nbsp; `Automation` &nbsp; `UI / UX` &nbsp; `Community tooling` &nbsp; `Accessibility`
-
-</div>
-
-## `ADVENTURER'S RECORD`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maiqbr&show_icons=true&hide_border=true&bg_color=0D0914&title_color=E9D5FF&icon_color=9B7BFF&text_color=CFC6DA&ring_color=9B7BFF&include_all_commits=true&rank_icon=github" alt="Maiq's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiqbr&layout=compact&hide_border=true&bg_color=0D0914&title_color=E9D5FF&text_color=CFC6DA" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/output/github-contribution-grid-snake-dark.svg" alt="An animated snake eating Maiq's contribution graph" width="100%" />
-</div>
+<div align="center"><code>Discord bots</code> &nbsp; <code>Web apps</code> &nbsp; <code>Game design</code> &nbsp; <code>TTRPG systems</code> &nbsp; <code>Automation</code> &nbsp; <code>UI / UX</code> &nbsp; <code>Community tooling</code> &nbsp; <code>Accessibility</code></div>
 
 ---
 
-<div align="center">
-
-  *Built with coffee, dice, and a few more lines of code than strictly necessary.*
-
-  [Visit my portfolio](https://maiq.dev.br) · [Explore the GDI](https://gdi.maiq.dev.br)
-
-</div>
+<div align="center"><i>Built with coffee, dice, and a few more lines of code than strictly necessary.</i><br /><br /><a href="https://maiq.dev.br">Portfolio</a> · <a href="https://gdi.maiq.dev.br">GDI</a> · <a href="https://github.com/maiqbr?tab=repositories">All repositories</a></div>
