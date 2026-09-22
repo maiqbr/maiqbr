@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-cover.png" alt="maiq — built with coffee, dice and code" width="100%" /></a>
+  <a href="https://maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-cover-v2.png" alt="maiq — built with coffee, dice, and a few more lines of JavaScript than necessary" width="100%" /></a>
   <br /><br />
   <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-monogram-violet.png" alt="maiq monogram" width="74" />
   <h2>Community Systems Builder</h2>
@@ -14,19 +14,19 @@
 
 <table>
   <tr>
-    <td width="33%" align="center"><a href="https://gdi.maiq.dev.br"><b>GDI</b></a><br /><sub>RPG companion · Discord & Telegram</sub></td>
-    <td width="33%" align="center"><a href="https://quiz.maiq.dev.br"><b>QuizArena</b></a><br /><sub>Browser game · live trivia</sub></td>
-    <td width="33%" align="center"><a href="https://discord.gg/ASBNn9VGsP"><b>NinScroll</b></a><br /><sub>Community system · NinOnline</sub></td>
+    <td width="33%" align="center"><a href="https://gdi.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/gdi-logo.png" width="28" alt="" /> <b>GDI</b></a><br /><sub>RPG companion · Discord & Telegram</sub></td>
+    <td width="33%" align="center"><a href="https://quiz.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/quizarena-logo.png" width="28" alt="" /> <b>QuizArena</b></a><br /><sub>Browser game · live trivia</sub></td>
+    <td width="33%" align="center"><a href="https://discord.gg/ASBNn9VGsP"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ninscroll-logo.png" width="28" alt="" /> <b>NinScroll</b></a><br /><sub>Community system · NinOnline</sub></td>
   </tr>
   <tr>
-    <td width="33%" align="center"><a href="https://discord.gg/amongusbrasil"><b>Ruby</b></a><br /><sub>Discord operations · Among Us Brasil</sub></td>
-    <td width="33%" align="center"><a href="https://github.com/maiqbr/Ruby-Live"><b>Ruby Live</b></a><br /><sub>WebRTC media sharing</sub></td>
-    <td width="33%" align="center"><a href="https://github.com/maiqbr/Spellbook"><b>Spellbook</b></a><br /><sub>Windows automation · .NET</sub></td>
+    <td width="33%" align="center"><a href="https://discord.gg/amongusbrasil"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby.png" width="28" alt="" /> <b>Ruby</b></a><br /><sub>Discord operations · Among Us Brasil</sub></td>
+    <td width="33%" align="center"><a href="https://github.com/maiqbr/Ruby-Live"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby-live-mark.svg" width="28" alt="" /> <b>Ruby Live</b></a><br /><sub>WebRTC media sharing</sub></td>
+    <td width="33%" align="center"><a href="https://github.com/maiqbr/Spellbook"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/spellbook-logo.png" width="28" alt="" /> <b>Spellbook</b></a><br /><sub>Windows automation · .NET</sub></td>
   </tr>
   <tr>
-    <td width="33%" align="center"><a href="https://aubtcg.maiq.dev.br"><b>Among Us Brasil TCG</b></a><br /><sub>Collectible card game</sub></td>
-    <td width="33%" align="center"><a href="https://tcguaxa.maiq.dev.br"><b>TCGuaxa</b></a><br /><sub>Collectible card game</sub></td>
-    <td width="33%" align="center"><a href="https://maiq.dev.br/#projetos"><b>View all ↗</b></a><br /><sub>More things from the workshop</sub></td>
+    <td width="33%" align="center"><a href="https://aubtcg.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/aubtcg.png" width="28" alt="" /> <b>Among Us Brasil TCG</b></a><br /><sub>Collectible card game</sub></td>
+    <td width="33%" align="center"><a href="https://tcguaxa.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/tcguaxa.png" width="28" alt="" /> <b>TCGuaxa</b></a><br /><sub>Collectible card game</sub></td>
+    <td width="33%" align="center"><a href="https://maiq.dev.br/#projetos"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-monogram-violet.png" width="28" alt="" /> <b>View all ↗</b></a><br /><sub>More things from the workshop</sub></td>
   </tr>
 </table>
 
@@ -70,14 +70,26 @@ My main project is an RPG companion for Discord and Telegram. It helps game mast
 
 <table>
   <tr>
-    <td width="25%" align="center"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/ideias.png" width="88" alt="Ideas" /><br /><b>01 · SYSTEM DESIGN</b><br /><sub>RPG rules · economies · game loops · community flows</sub></td>
-    <td width="25%" align="center"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/geral.png" width="88" alt="Community" /><br /><b>02 · COMMUNITY TECH</b><br /><sub>Discord · Telegram · moderation · events · automation</sub></td>
-    <td width="25%" align="center"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/coding.png" width="88" alt="Code" /><br /><b>03 · WEB CRAFT</b><br /><sub>JavaScript · web apps · UI/UX · WebRTC · .NET</sub></td>
-    <td width="25%" align="center"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/bau.png" width="88" alt="Chest" /><br /><b>04 · QUALITY OF LIFE</b><br /><sub>Accessibility · spoken dice · shortcuts · thoughtful details</sub></td>
+    <td width="25%" align="center"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/ideias.png" width="86" alt="Ideas" /></td>
+    <td width="25%" align="center"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/geral.png" width="86" alt="Community" /></td>
+    <td width="25%" align="center"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/coding.png" width="86" alt="Code" /></td>
+    <td width="25%" align="center"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/bau.png" width="86" alt="Chest" /></td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>01 · SYSTEM DESIGN</b></td>
+    <td width="25%" align="center"><b>02 · COMMUNITY TECH</b></td>
+    <td width="25%" align="center"><b>03 · CODE CRAFT</b></td>
+    <td width="25%" align="center"><b>04 · QUALITY OF LIFE</b></td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><sub>RPG rules<br />economies · game loops<br />community flows</sub></td>
+    <td width="25%" align="center"><sub>Discord · Telegram<br />moderation · events<br />automation</sub></td>
+    <td width="25%" align="center"><sub>JavaScript · TypeScript<br />C# · .NET · WebRTC<br />web apps · UI/UX</sub></td>
+    <td width="25%" align="center"><sub>Accessibility · spoken dice<br />shortcuts · useful details<br />systems with personality</sub></td>
   </tr>
 </table>
 
-<div align="center"><sub><b>LOADOUT</b> &nbsp; JavaScript &nbsp;·&nbsp; .NET &nbsp;·&nbsp; Discord &amp; Telegram APIs &nbsp;·&nbsp; WebRTC &nbsp;·&nbsp; HTML/CSS &nbsp;·&nbsp; Game Design</sub></div>
+<div align="center"><sub><b>LOADOUT</b> &nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; C# / .NET &nbsp;·&nbsp; HTML/CSS &nbsp;·&nbsp; Discord &amp; Telegram APIs &nbsp;·&nbsp; WebRTC &nbsp;·&nbsp; Game Design</sub></div>
 
 ## 📜 Adventurer's record
 
@@ -95,4 +107,4 @@ My main project is an RPG companion for Discord and Telegram. It helps game mast
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-signature-ivory.png" alt="maiq" width="130" /><br /><br /><i>Built with coffee, dice, and a few more lines of code than strictly necessary.</i></div>
+<div align="center"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-signature-ivory.png" alt="maiq" width="130" /><br /><br /><i>Built with coffee, dice, and a few more lines of code than necessary.</i></div>
