@@ -28,41 +28,6 @@
   </tr>
 </table>
 
-## 🗺️ Inspect a quest
-
-<details>
-<summary><b>🎲 GDI: The improbable main quest</b></summary>
-<br />
-
-<img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/dados.png" alt="Dice icon" width="52" align="left" />
-
-My main project is an RPG companion for Discord and Telegram. It helps game masters and players run tables with less friction, and includes spoken dice rolls so the table is more accessible. &nbsp; [Open GDI →](https://gdi.maiq.dev.br)
-
-<br clear="left" />
-</details>
-
-<details>
-<summary><b>🏰 Community systems: worlds that run themselves</b></summary>
-<br />
-
-<img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/geral.png" alt="Community icon" width="52" align="left" />
-
-**NinScroll** builds a ninja village around economy, organizations, events, and safety. **Ruby** gives the Among Us Brasil community call-management and ticket workflows designed for real-world scale. &nbsp; [NinScroll →](https://discord.gg/ASBNn9VGsP) · [Ruby →](https://discord.gg/amongusbrasil)
-
-<br clear="left" />
-</details>
-
-<details>
-<summary><b>🧪 Side quests: games, experiments, and useful magic</b></summary>
-<br />
-
-<img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/ideias.png" alt="Ideas icon" width="52" align="left" />
-
-**QuizArena**, **Among Us Brasil TCG**, and **TCGuaxa** turn community moments into play. **Ruby Live** and **Spellbook** take a different route: technical tools made to feel intuitive, characterful, and fun.
-
-<br clear="left" />
-</details>
-
 <a id="skill-tree"></a>
 ## ✦ Skill tree
 
@@ -95,10 +60,10 @@ My main project is an RPG companion for Discord and Telegram. It helps game mast
   <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/adventurer-record.svg" alt="Live GitHub record: contributions, repositories, stars and followers" width="100%" />
 </div>
 
-## 🐍 Contribution familiar
+## 🗝️ Dungeon crawl
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/output/github-contribution-grid-snake-dark.svg" alt="Animated snake consuming the contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/dungeon-crawl.svg" alt="An animated adventurer crossing a dungeon toward treasure" width="100%" />
 </div>
 
 ---
