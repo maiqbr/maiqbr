@@ -24,9 +24,11 @@
   <tr>
     <td width="33%" align="center"><a href="https://aubtcg.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/aubtcg.png" height="28" alt="" /> <b>Among Us Brasil TCG</b></a><br /><sub>Collectible card game</sub></td>
     <td width="33%" align="center"><a href="https://tcguaxa.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/tcguaxa.png" height="28" alt="" /> <b>TCGuaxa</b></a><br /><sub>Collectible card game</sub></td>
-    <td width="33%" align="center"><a href="https://maiq.dev.br/#projetos"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-monogram-violet.png" height="28" alt="" /> <b>View all ↗</b></a><br /><sub>More things from the workshop</sub></td>
+    <td width="33%" align="center"><a href="https://github.com/maiqbr/grimorio-erp"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/grimorio-icon.svg" height="28" alt="" /> <b>Grimório</b></a><br /><sub>Personal workspace · Tasks, calendar & notes</sub></td>
   </tr>
 </table>
+
+<div align="center"><a href="https://maiq.dev.br/#projetos">View all projects ↗</a></div>
 
 <a id="skill-tree"></a>
 ## ✦ Skill tree
