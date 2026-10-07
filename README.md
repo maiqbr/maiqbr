@@ -13,6 +13,21 @@
 <div align="center">
 <table align="center" width="100%">
   <tr>
+    <td align="center">
+      <sub>✦ FEATURED QUEST</sub><br /><br />
+      <a href="https://arcano.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/arcano-logo.png" height="72" alt="Arcano" /></a><br />
+      <h3><a href="https://arcano.maiq.dev.br">Arcano</a></h3>
+      <p>A browser toolkit for planning, customizing, and managing Discord communities. No login required.</p>
+      <sub>Role colors &amp; palettes · Embed builder · Server planner · Permissions · AutoMod</sub><br /><br />
+      <a href="https://arcano.maiq.dev.br"><b>Explore Arcano ↗</b></a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table align="center" width="100%">
+  <tr>
     <td width="25%" valign="top" align="center"><a href="https://gdi.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/gdi-logo.png" height="28" alt="" /> <b>GDI</b></a><br /><sub>RPG companion · Discord & Telegram</sub></td>
     <td width="25%" valign="top" align="center"><a href="https://quiz.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/quizarena-logo.png" height="28" alt="" /> <b>QuizArena</b></a><br /><sub>Browser game · live trivia</sub></td>
     <td width="25%" valign="top" align="center"><a href="https://discord.gg/amongusbrasil"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby.png" height="28" alt="" /> <b>Ruby</b></a><br /><sub>Discord operations · Among Us Brasil</sub></td>
