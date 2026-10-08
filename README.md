@@ -17,7 +17,7 @@
       <sub>✦ FEATURED QUEST</sub><br /><br />
       <a href="https://arcano.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/arcano-logo.png" height="72" alt="Arcano" /></a><br />
       <h3><a href="https://arcano.maiq.dev.br">Arcano</a></h3>
-      <p>A browser toolkit for planning, customizing, and managing Discord communities. No login required.</p>
+      <p>A browser toolkit for planning, customizing, and managing Discord communities.</p>
       <sub>Role colors &amp; palettes · Embed builder · Server planner · Permissions · AutoMod</sub><br /><br />
       <a href="https://arcano.maiq.dev.br"><b>Explore Arcano ↗</b></a>
     </td>
