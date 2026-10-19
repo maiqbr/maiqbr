@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/brand/maiq-monogram-violet.png" alt="maiq monogram" width="74" />
   <h2><i>Built with coffee, dice, and a few more lines of code than necessary.</i></h2>
   <p><i>I turn “what if there was a tool for this?” into playful systems people actually use.</i></p>
-  <a href="https://maiq.dev.br">portfolio</a> · <a href="#quest-log">quest log</a> · <a href="#skill-tree">skill tree</a>
+  <a href="https://maiq.dev">portfolio</a> · <a href="#quest-log">quest log</a> · <a href="#skill-tree">skill tree</a>
 </div>
 
 > **CURRENT BUILD:** RPG tools, community bots, games, and web experiments, made with equal parts curiosity, structure, and chaos.
@@ -15,11 +15,11 @@
   <tr>
     <td align="center">
       <sub>✦ FEATURED QUEST</sub><br /><br />
-      <a href="https://arcano.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/arcano-logo.png" height="72" alt="Arcano" /></a><br />
-      <h3><a href="https://arcano.maiq.dev.br">Arcano</a></h3>
+      <a href="https://arcano.maiq.dev"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/arcano-logo.png" height="72" alt="Arcano" /></a><br />
+      <h3><a href="https://arcano.maiq.dev">Arcano</a></h3>
       <p>A browser toolkit for planning, customizing, and managing Discord communities.</p>
       <sub>Role colors &amp; palettes · Embed builder · Server planner · Permissions · AutoMod</sub><br /><br />
-      <a href="https://arcano.maiq.dev.br"><b>Explore Arcano ↗</b></a>
+      <a href="https://arcano.maiq.dev"><b>Explore Arcano ↗</b></a>
     </td>
   </tr>
 </table>
@@ -28,21 +28,21 @@
 <div align="center">
 <table align="center" width="100%">
   <tr>
-    <td width="25%" valign="top" align="center"><a href="https://gdi.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/gdi-logo.png" height="28" alt="" /> <b>GDI</b></a><br /><sub>RPG companion · Discord & Telegram</sub></td>
-    <td width="25%" valign="top" align="center"><a href="https://quiz.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/quizarena-logo.png" height="28" alt="" /> <b>QuizArena</b></a><br /><sub>Browser game · live trivia</sub></td>
+    <td width="25%" valign="top" align="center"><a href="https://gdi.maiq.dev"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/gdi-logo.png" height="28" alt="" /> <b>GDI</b></a><br /><sub>RPG companion · Discord & Telegram</sub></td>
+    <td width="25%" valign="top" align="center"><a href="https://quiz.maiq.dev"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/quizarena-logo.png" height="28" alt="" /> <b>QuizArena</b></a><br /><sub>Browser game · live trivia</sub></td>
     <td width="25%" valign="top" align="center"><a href="https://discord.gg/amongusbrasil"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby.png" height="28" alt="" /> <b>Ruby</b></a><br /><sub>Discord operations · Among Us Brasil</sub></td>
     <td width="25%" valign="top" align="center"><a href="https://github.com/maiqbr/Ruby-Live"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby-live-mark.svg" height="28" alt="" /> <b>Ruby Live</b></a><br /><sub>WebRTC media sharing</sub></td>
   </tr>
   <tr>
     <td width="25%" valign="top" align="center"><a href="https://github.com/maiqbr/Spellbook"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/spellbook-logo.png" height="28" alt="" /> <b>Spellbook</b></a><br /><sub>Windows automation · .NET</sub></td>
-    <td width="25%" valign="top" align="center"><a href="https://aubtcg.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/aubtcg.png" height="28" alt="" /> <b>Among Us Brasil TCG</b></a><br /><sub>Collectible card game</sub></td>
-    <td width="25%" valign="top" align="center"><a href="https://tcguaxa.maiq.dev.br"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/tcguaxa.png" height="28" alt="" /> <b>TCGuaxa</b></a><br /><sub>Collectible card game</sub></td>
+    <td width="25%" valign="top" align="center"><a href="https://aubtcg.maiq.dev"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/aubtcg.png" height="28" alt="" /> <b>Among Us Brasil TCG</b></a><br /><sub>Collectible card game</sub></td>
+    <td width="25%" valign="top" align="center"><a href="https://tcguaxa.maiq.dev"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/tcguaxa.png" height="28" alt="" /> <b>TCGuaxa</b></a><br /><sub>Collectible card game</sub></td>
     <td width="25%" valign="top" align="center"><a href="https://github.com/maiqbr/grimorio-erp"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/grimorio-icon.svg" height="28" alt="" /> <b>Grimório</b></a><br /><sub>Personal workspace · Tasks, calendar & notes</sub></td>
   </tr>
 </table>
 </div>
 
-<div align="center"><a href="https://maiq.dev.br/#projetos">View all projects ↗</a></div>
+<div align="center"><a href="https://maiq.dev/#projetos">View all projects ↗</a></div>
 
 <a id="skill-tree"></a>
 ## ✦ Skill tree
