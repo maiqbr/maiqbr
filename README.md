@@ -12,15 +12,16 @@
 
 <div align="center">
 <table align="center" width="100%">
+  <tr><td colspan="3" align="center">
+    <sub>✦ FEATURED QUEST · BROWSER GAMES</sub><br /><br />
+    <a href="https://lorota.app"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/lorota/symbol.webp" height="64" alt="" /> <img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/lorota/wordmark.webp" height="64" alt="Lorota.app" /></a>
+    <p>Forbidden words, mysteries and trivia. My Portuguese-language games, together in one place.</p>
+    <a href="https://lorota.app"><b>Explore Lorota ↗</b></a><br /><br />
+  </td></tr>
   <tr>
-    <td align="center">
-      <sub>✦ FEATURED QUEST</sub><br /><br />
-      <a href="https://arcano.maiq.dev"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/arcano-logo.png" height="72" alt="Arcano" /></a><br />
-      <h3><a href="https://arcano.maiq.dev">Arcano</a></h3>
-      <p>A browser toolkit for planning, customizing, and managing Discord communities.</p>
-      <sub>Role colors &amp; palettes · Embed builder · Server planner · Permissions · AutoMod</sub><br /><br />
-      <a href="https://arcano.maiq.dev"><b>Explore Arcano ↗</b></a>
-    </td>
+    <td width="33.333%" valign="top" align="center"><a href="https://resenha.lorota.app"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/lorota/resenha.webp" height="76" alt="" /><br /><b>Resenha</b></a><br /><sub>Get someone to guess the word without saying the five forbidden ones.</sub></td>
+    <td width="33.333%" valign="top" align="center"><a href="https://enigmas.lorota.app"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/lorota/enigmas.webp" height="76" alt="" /><br /><b>Enigmas</b></a><br /><sub>Uncover what happened with yes-or-no questions.</sub></td>
+    <td width="33.333%" valign="top" align="center"><a href="https://quiz.lorota.app"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/lorota/quiz.webp" height="76" alt="" /><br /><b>Quiz Arena</b></a><br /><sub>Choose a topic and see how many questions you get right.</sub></td>
   </tr>
 </table>
 </div>
@@ -29,7 +30,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="33.333%" valign="top" align="center"><a href="https://gdi.maiq.dev"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/gdi-logo.png" height="28" alt="" /> <b>GDI</b></a><br /><sub>RPG companion · Discord & Telegram</sub></td>
-    <td width="33.333%" valign="top" align="center"><a href="https://quiz.maiq.dev"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/quizarena-logo.png" height="28" alt="" /> <b>QuizArena</b></a><br /><sub>Browser game · live trivia</sub></td>
+    <td width="33.333%" valign="top" align="center"><a href="https://arcano.maiq.dev"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/arcano-logo.png" height="28" alt="" /> <b>Arcano</b></a><br /><sub>Browser toolkit · Discord communities</sub></td>
     <td width="33.333%" valign="top" align="center"><a href="https://discord.gg/amongusbrasil"><img src="https://raw.githubusercontent.com/maiqbr/maiqbr/main/assets/ruby.png" height="28" alt="" /> <b>Ruby</b></a><br /><sub>Discord operations · Among Us Brasil</sub></td>
   </tr>
   <tr>
